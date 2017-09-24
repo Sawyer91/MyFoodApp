@@ -1,0 +1,5 @@
+# MyFoodApp
+
+
+
+minAPI = 22
